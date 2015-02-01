@@ -1,5 +1,5 @@
 //Javier Reyna EG1305A
-
+//OK. Ozgur Aktunc
 import java.text.DecimalFormat;
 
 
